@@ -1,7 +1,8 @@
 public class Lapis {
+//Atividade do modulo 7/
 
     private int codigo;
-
+    
     private int preco;
 
     private String cor;
